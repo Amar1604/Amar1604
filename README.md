@@ -1,17 +1,12 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:00F5FF,50:7B2FBE,100:FF006E&text=Amardeep&fontColor=FFFFFF&fontSize=65&fontAlignY=45&desc=Full%20Stack%20%26%20Mobile%20Developer%20%E2%80%A2%20AI%20%26%20Software%20Engineer&descAlignY=65&descColor=E0E0E0&animation=fadeIn&stroke=00F5FF&strokeWidth=2" />
+<!-- LOCAL SVG HEADER (100% Reliable, Zero-Downtime) -->
+<img width="100%" src="assets/header.svg" alt="Amardeep - Header Banner" />
 
-<br/>
+<br/><br/>
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=680&height=50&lines=📱+Mobile+App+Developer+(Flutter+%7C+Dart);🚀+Full+Stack+Engineer+(React+%7C+Django+%7C+FastAPI);🤖+AI+%26+Computer+Vision+Enthusiast;🏆+Winner%2C+Hacknovate+7.0+%7C+IITK+Grand+Finalist;💡+Open+to+Exciting+Opportunities+%26+Collaborations)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- TROPHIES -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Amar1604&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -123,7 +118,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
 
@@ -140,7 +135,7 @@
 
 ---
 
-## 📬 Connect With Me
+## 📬 Let's Connect
 
 <div align="center">
 
@@ -156,8 +151,8 @@
 
 ---
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:7B2FBE,100:00F5FF&height=130&section=footer&animation=twinkling" />
+<!-- LOCAL SVG FOOTER -->
+<img width="100%" src="assets/footer.svg" alt="Footer Wave" />
 
 <div align="center">
 <sub>💻 Built with passion for Mobile, Web & AI · Let's craft great digital experiences together 🚀</sub>
