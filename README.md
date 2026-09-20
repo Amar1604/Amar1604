@@ -1,7 +1,12 @@
 <div align="center">
 
-<!-- HEADER (Absolute raw GitHub URL for profile rendering) -->
-<img width="100%" src="https://raw.githubusercontent.com/Amar1604/Amar1604/main/assets/header.svg" alt="Amardeep - Header Banner" />
+# 👨‍💻 AMARDEEP
+### 📱 Flutter & Dart Developer &nbsp;•&nbsp; 🚀 Full Stack (React & Django) &nbsp;•&nbsp; 🤖 AI Enthusiast
+
+[![GitHub](https://img.shields.io/badge/GitHub-Amar1604-181717?style=flat-square&logo=github)](https://github.com/Amar1604)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amar--deep1604-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amar-deep1604)
+[![Email](https://img.shields.io/badge/Email-amardeep1604%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:amardeep1604@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Meerut%2C%20India%20🇮🇳-00F5FF?style=flat-square)](https://github.com/Amar1604)
 
 <br/><br/>
 
@@ -147,13 +152,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amar1604&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-</div>
+<br/><br/>
 
 ---
 
-<!-- FOOTER -->
-<img width="100%" src="https://raw.githubusercontent.com/Amar1604/Amar1604/main/assets/footer.svg" alt="Footer Wave" />
+<sub>💻 Crafted with passion for Mobile, Web & AI · Let's craft great digital experiences together 🚀</sub>
 
-<div align="center">
-<sub>💻 Built with passion for Mobile, Web & AI · Let's craft great digital experiences together 🚀</sub>
 </div>
