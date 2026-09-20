@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- LOCAL SVG HEADER (100% Reliable, Zero-Downtime) -->
-<img width="100%" src="assets/header.svg" alt="Amardeep - Header Banner" />
+<!-- HEADER (Absolute raw GitHub URL for profile rendering) -->
+<img width="100%" src="https://raw.githubusercontent.com/Amar1604/Amar1604/main/assets/header.svg" alt="Amardeep - Header Banner" />
 
 <br/><br/>
 
@@ -151,8 +151,8 @@
 
 ---
 
-<!-- LOCAL SVG FOOTER -->
-<img width="100%" src="assets/footer.svg" alt="Footer Wave" />
+<!-- FOOTER -->
+<img width="100%" src="https://raw.githubusercontent.com/Amar1604/Amar1604/main/assets/footer.svg" alt="Footer Wave" />
 
 <div align="center">
 <sub>💻 Built with passion for Mobile, Web & AI · Let's craft great digital experiences together 🚀</sub>
